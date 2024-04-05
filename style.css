@@ -1,0 +1,9 @@
+@font-face{
+    font-family:"oldone";
+    src: url(OldStandardTT-Regular.ttf) format('TrueType')
+}
+p{
+   font-family: "oldone"; 
+   font-weight: 400;
+   color: #000000;
+}
